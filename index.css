@@ -1,0 +1,30 @@
+div a #app-title{
+    justify-content: center;
+}
+
+div#myapp {
+    padding-top: 60px;
+}
+
+div.ebookcard-pill-availability-number{
+   margin-right: 15px;
+   margin-left: -10px;
+}
+
+button {
+    padding: 0;
+    border: none;
+    background: none;
+    color: white;
+}
+
+#check{
+    color: black;
+    transform: scale(1.1);
+    align-self: center;
+}
+
+#kindle{
+    color: white;
+    transform: scale(4);
+}
